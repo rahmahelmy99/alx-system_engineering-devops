@@ -1,2 +1,3 @@
 #!/bin/bash
+cd /root/tmp/var
 cd -
