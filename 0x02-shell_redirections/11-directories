@@ -1,0 +1,2 @@
+#!/bin/bash
+find ./subdirectory -type d|wc -l
