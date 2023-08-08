@@ -1,0 +1,2 @@
+#!/bin/bash
+tail -n 2+ |cut -c 1 -d " "|sort -k 1| uniq -c |sort -rnk 1 |head -n 11
